@@ -1,0 +1,15 @@
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\net6.0\VariablesAndDatatypes.exe
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\net6.0\VariablesAndDatatypes.deps.json
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\net6.0\VariablesAndDatatypes.runtimeconfig.json
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\net6.0\VariablesAndDatatypes.dll
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\net6.0\VariablesAndDatatypes.pdb
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.AssemblyInfo.cs
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.dll
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\refint\VariablesAndDatatypes.dll
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.pdb
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\VariablesAndDatatypes.genruntimeconfig.cache
+C:\Users\BarryDev\source\repos\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\net6.0\ref\VariablesAndDatatypes.dll
