@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BarryDev\\source\\repos\\ConsoleProgramming\\HelloWorld.NET5\\HelloWorld.NET5.csproj",
+      "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld.NET5\\HelloWorld.NET5.csproj",
       "projectName": "HelloWorld.NET5",
-      "projectPath": "C:\\Users\\BarryDev\\source\\repos\\ConsoleProgramming\\HelloWorld.NET5\\HelloWorld.NET5.csproj",
+      "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld.NET5\\HelloWorld.NET5.csproj",
       "packagesPath": "C:\\Users\\BarryDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BarryDev\\source\\repos\\ConsoleProgramming\\HelloWorld.NET5\\obj\\",
+      "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld.NET5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BarryDev\\AppData\\Roaming\\NuGet\\NuGet.Config",

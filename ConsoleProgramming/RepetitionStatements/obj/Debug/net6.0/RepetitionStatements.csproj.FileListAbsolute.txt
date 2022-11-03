@@ -1,0 +1,15 @@
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.exe
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.deps.json
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.runtimeconfig.json
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.csproj.AssemblyReference.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.AssemblyInfoInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.AssemblyInfo.cs
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.csproj.CoreCompileInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\refint\RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.genruntimeconfig.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\ref\RepetitionStatements.dll

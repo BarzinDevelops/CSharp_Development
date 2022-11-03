@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GrrZHhp4Ur1B3kB1CkPAyv/aCblRAiu/lZCgFTjiJxmcReg/zv88IdCwLnHIe+l7aDUME4XcDb8SLK8fRZh1lA==",
+  "dgSpecHash": "79k6haSrnk/ubowQ65ekFBgTMiwkWIZyOkebh+OvGgVx//2vLC4SaRMdsJ/eF/T4DK/Gyf5wCAibGVrBZuzWtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BarryDev\\source\\repos\\ConsoleProgramming\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
