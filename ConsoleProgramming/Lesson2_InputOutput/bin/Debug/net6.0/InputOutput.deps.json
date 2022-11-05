@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "InputOutput/1.0.0": {
         "runtime": {
-          "InputOutput.dll": {}
+          "Lesson2_InputOutput.dll": {}
         }
       }
     }

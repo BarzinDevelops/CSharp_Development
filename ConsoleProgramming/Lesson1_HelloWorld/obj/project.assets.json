@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson1_HelloWorld\\Lesson1_HelloWorld.csproj",
+      "projectName": "Lesson1_HelloWorld",
+      "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson1_HelloWorld\\Lesson1_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\BarryDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson1_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BarryDev\\AppData\\Roaming\\NuGet\\NuGet.Config",

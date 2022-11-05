@@ -1,0 +1,15 @@
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\bin\Debug\net6.0\Lesson3_VariablesAndDatatypes.exe
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\bin\Debug\net6.0\Lesson3_VariablesAndDatatypes.deps.json
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\bin\Debug\net6.0\Lesson3_VariablesAndDatatypes.runtimeconfig.json
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\bin\Debug\net6.0\Lesson3_VariablesAndDatatypes.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\bin\Debug\net6.0\Lesson3_VariablesAndDatatypes.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.AssemblyInfo.cs
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\refint\Lesson3_VariablesAndDatatypes.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\Lesson3_VariablesAndDatatypes.genruntimeconfig.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson3_VariablesAndDatatypes\obj\Debug\net6.0\ref\Lesson3_VariablesAndDatatypes.dll

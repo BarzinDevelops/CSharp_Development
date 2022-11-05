@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "RepetitionStatements/1.0.0": {
         "runtime": {
-          "RepetitionStatements.dll": {}
+          "Lesson4_RepetitionStatements.dll": {}
         }
       }
     }

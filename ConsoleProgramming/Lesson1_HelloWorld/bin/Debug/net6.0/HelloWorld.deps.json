@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "HelloWorld/1.0.0": {
         "runtime": {
-          "HelloWorld.dll": {}
+          "Lesson1_HelloWorld.dll": {}
         }
       }
     }

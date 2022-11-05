@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld.NET5
+namespace Lesson1A_HelloWorld.NET5
 {
     internal class Program
     {

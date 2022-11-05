@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\VariablesAndDatatypes.csproj": {}
+    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\Lesson3_VariablesAndDatatypes.csproj": {}
   },
   "projects": {
-    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\VariablesAndDatatypes.csproj": {
+    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\Lesson3_VariablesAndDatatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\VariablesAndDatatypes.csproj",
+        "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\Lesson3_VariablesAndDatatypes.csproj",
         "projectName": "VariablesAndDatatypes",
-        "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\VariablesAndDatatypes.csproj",
+        "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\Lesson3_VariablesAndDatatypes.csproj",
         "packagesPath": "C:\\Users\\BarryDev\\.nuget\\packages\\",
         "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\VariablesAndDatatypes\\obj\\",
         "projectStyle": "PackageReference",

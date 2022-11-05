@@ -1,0 +1,15 @@
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\bin\Debug\net6.0\Lesson4_RepetitionStatements.exe
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\bin\Debug\net6.0\Lesson4_RepetitionStatements.deps.json
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\bin\Debug\net6.0\Lesson4_RepetitionStatements.runtimeconfig.json
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\bin\Debug\net6.0\Lesson4_RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\bin\Debug\net6.0\Lesson4_RepetitionStatements.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.csproj.AssemblyReference.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.AssemblyInfoInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.AssemblyInfo.cs
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.csproj.CoreCompileInputs.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\refint\Lesson4_RepetitionStatements.dll
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.pdb
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\Lesson4_RepetitionStatements.genruntimeconfig.cache
+C:\Github\CSharp_Learning\ConsoleProgramming\Lesson4_RepetitionStatements\obj\Debug\net6.0\ref\Lesson4_RepetitionStatements.dll

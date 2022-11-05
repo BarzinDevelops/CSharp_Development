@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj",
-      "projectName": "InputOutput",
-      "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj",
+      "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson2_InputOutput\\Lesson2_InputOutput.csproj",
+      "projectName": "Lesson2_InputOutput",
+      "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson2_InputOutput\\Lesson2_InputOutput.csproj",
       "packagesPath": "C:\\Users\\BarryDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\obj\\",
+      "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\Lesson2_InputOutput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BarryDev\\AppData\\Roaming\\NuGet\\NuGet.Config",

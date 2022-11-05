@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "VariablesAndDatatypes/1.0.0": {
         "runtime": {
-          "VariablesAndDatatypes.dll": {}
+          "Lesson3_VariablesAndDatatypes.dll": {}
         }
       }
     }

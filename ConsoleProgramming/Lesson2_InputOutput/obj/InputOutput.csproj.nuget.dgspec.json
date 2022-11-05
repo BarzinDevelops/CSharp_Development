@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj": {}
+    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\Lesson2_InputOutput.csproj": {}
   },
   "projects": {
-    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj": {
+    "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\Lesson2_InputOutput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj",
+        "projectUniqueName": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\Lesson2_InputOutput.csproj",
         "projectName": "InputOutput",
-        "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\InputOutput.csproj",
+        "projectPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\Lesson2_InputOutput.csproj",
         "packagesPath": "C:\\Users\\BarryDev\\.nuget\\packages\\",
         "outputPath": "C:\\Github\\CSharp_Learning\\ConsoleProgramming\\InputOutput\\obj\\",
         "projectStyle": "PackageReference",

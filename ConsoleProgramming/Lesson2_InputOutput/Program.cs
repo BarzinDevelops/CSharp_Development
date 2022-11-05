@@ -14,4 +14,4 @@ Console.Write("What is your name? ");
 string fullName = Console.ReadLine();
 
 // Print contents of variable/user's input
-Console.WriteLine($"Hi {fullName}, nice to meet your");
+Console.WriteLine($"Hi {fullName}, nice to meet you!");
